@@ -2,6 +2,8 @@
 - 👀 I’m interested C++, BASH, Java, Python.
 - 🌱 I’m currently learning C#.
 
+  Here, you'll find a collection of projects and resources primarily related to my studies at IIE MSA, where I'm pursuing a BSc in Computer and Information Sciences.
+
 Contact Information:
 
     Name: Christo Mienie
