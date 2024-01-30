@@ -9,7 +9,7 @@ Contact Information:
     Name: Christo Mienie
     Email: chrismienie1999@gmail.com
 
-Thank you for visiting my GitHub repository! Happy coding! 🚀
+Thanks for visiting my GitHub repository! Happy coding! 🚀
 
 <!---
 ChrisV2V2/ChrisV2V2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
