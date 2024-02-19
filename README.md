@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @ChrisV2V2
-- 👀 I’m interested C++, BASH, Java, Python.
-- 🌱 I’m currently learning C#.
+<h1 align="center">Hi there 👋, I'm Chris</h1>
+<h3 align="center">Currently persuing a Bsc. of Computer and Information Sciences at Monash South Africa.</h3>
 
-  Here, you'll find a collection of projects and resources primarily related to my studies at IIE MSA, where I'm pursuing a BSc in Computer and Information Sciences.
+- 🌱 I’m currently learning **C#, BASH, Rust, Python, Java**
 
-Contact Information:
+- 📫 How to reach me **chrismienie1999@gmail.com**
 
-    Name: Christo Mienie
-    Email: chrismienie1999@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/christo mienie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christo mienie" height="30" width="40" /></a>
+</p>
 
-Thanks for visiting my GitHub repository! Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-<!---
-ChrisV2V2/ChrisV2V2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisv2v2&show_icons=true&locale=en&layout=compact" alt="chrisv2v2" /></p>
+
