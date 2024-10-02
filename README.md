@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Chris</h1>
 <h3 align="center">Currently persuing a Bsc. of Computer and Information Sciences at Monash South Africa.</h3>
 
-- 🌱 Learning **C#, BASH, Rust, Python, Java**
+- 🌱 Learning **C#, BASH, PHP, Python, Java**
 
 - 📫 How to reach me **chrismienie1999@gmail.com**
 
